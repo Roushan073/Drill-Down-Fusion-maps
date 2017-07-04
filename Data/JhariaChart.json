@@ -1,0 +1,139 @@
+{
+    "chart": {
+        "caption": "Coal Production in Jharia, Bokaro",
+        "subCaption": "June 2016 - June 2017",
+        "yaxisname": "Units {br}(in Tonnes){br}{br}",
+      "xAxisName": "{br}{br}Month",
+      "yAxisMaxValue": "3000",
+        "showvalues": "1",
+      "canvasbordercolor": "#41c1a3",
+        "bordercolor": "#41c1a3",
+      "showborder": "1",
+      "showcanvasborder": "1",
+      "placevaluesinside": "1",
+      "valuefontbold": "1",
+      "valuefontsize": "12",
+      "showXAxisLine": "1",
+      "paletteColors": "#ff0000",
+        "xAxisLineThickness": "1",
+        "formatNumberScale": "1",
+        "theme": "fint"
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": "June 16"
+                },
+                {
+                    "label": "July 16"
+                },
+                {
+                    "label": "August 16"
+                },
+                {
+                    "label": "September 16"
+                },
+                {
+                    "label": "October 16"
+                },
+                {
+                    "label": "November 16"
+                },
+                {
+                    "label": "December 16"
+                },
+                {
+                    "label": "January 17"
+                },
+                {
+                    "label": "February 17"
+                },
+                {
+                    "label": "March 17"
+                },
+                {
+                    "label": "Apil 17"
+                },
+                {
+                    "label": "May 17"
+                },
+                {
+                    "label": "June 17"
+                }
+            ]
+        }
+    ],
+  "dataset": [
+    {
+      "seriesname": "Coal Production",
+      "data": [
+        {
+          "value": "1500",
+          "color": "#28ed60"
+        },
+        {
+          "value": "1200",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1700",
+          "color": "#28ed60"
+        },
+        {
+          "value": "1400",
+          "color": "#28ed60"
+        },
+        {
+          "value": "1100",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1000",
+          "color": "#ff0000"
+        },
+        {
+          "value": "950",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1200",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1000",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1200",
+          "color": "#ff0000"
+        },
+        {
+          "value": "850",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1100",
+          "color": "#ff0000"
+        },
+        {
+          "value": "1005",
+          "color": "#ff0000"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+        {
+            "line": [
+                {
+                    "startvalue": "1300",
+                    "color": "#1aaf5d",
+                    "displayvalue": "Target{br}Monthly{br}Production",
+                    "valueOnRight": "1",
+                    "thickness": "2"
+                }
+            ]
+        }
+    ]
+}

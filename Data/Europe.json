@@ -1,0 +1,234 @@
+{
+    "chart": {
+        "animation": "0",
+        "showbevel": "0",
+        "usehovercolor": "1",
+        "canvasbordercolor": "FFFFFF",
+        "bordercolor": "FFFFFF",
+        "showlegend": "1",
+        "showshadow": "0",
+        "legendposition": "BOTTOM",
+        "legendborderalpha": "0",
+        "legendbordercolor": "ffffff",
+        "legendallowdrag": "0",
+        "legendshadow": "0",
+        "caption": "Website Visits for the month of Jan 2014",
+        "connectorcolor": "000000",
+        "fillalpha": "80",
+        "hovercolor": "CCCCCC",
+        "showborder": 0
+    },
+    "colorrange": {
+        "minvalue": "0",
+        "startlabel": "Low",
+        "endlabel": "High",
+        "code": "e44a00",
+        "gradient": "1",
+        "color": [
+            {
+                "maxvalue": 30000,
+                "displayvalue": "Average",
+                "code": "f8bd19"
+            },
+            {
+                "maxvalue": 100000,
+                "code": "6baa01"
+            }
+        ],
+        "maxvalue": 0
+    },
+    "data": [
+        {
+            "data": [
+                {
+                    "id": "021",
+                    "value": "4806"
+                },
+                {
+                    "id": "002",
+                    "value": "2286"
+                },
+                {
+                    "id": "025",
+                    "value": "257"
+                },
+                {
+                    "id": "034",
+                    "value": "1501"
+                },
+                {
+                    "id": "027",
+                    "value": "3255"
+                },
+                {
+                    "id": "043",
+                    "value": "58546"
+                },
+                {
+                    "id": "028",
+                    "value": "51249"
+                },
+                {
+                    "id": "044",
+                    "value": "35986"
+                },
+                {
+                    "id": "026",
+                    "value": "37199"
+                },
+                {
+                    "id": "023",
+                    "value": "37895"
+                },
+                {
+                    "id": "010",
+                    "value": "34368"
+                },
+                {
+                    "id": "017",
+                    "value": "54575"
+                },
+                {
+                    "id": "042",
+                    "value": "73291"
+                },
+                {
+                    "id": "018",
+                    "value": "40958"
+                },
+                {
+                    "id": "030",
+                    "value": "47505"
+                },
+                {
+                    "id": "039",
+                    "value": "57604"
+                },
+                {
+                    "id": "029",
+                    "value": "38227"
+                },
+                {
+                    "id": "005",
+                    "value": "63948"
+                },
+                {
+                    "id": "013",
+                    "value": "58996"
+                },
+                {
+                    "id": "038",
+                    "value": "63724"
+                },
+                {
+                    "id": "032",
+                    "value": "67716"
+                },
+                {
+                    "id": "040",
+                    "value": "70341"
+                },
+                {
+                    "id": "003",
+                    "value": "60031"
+                },
+                {
+                    "id": "037",
+                    "value": "34821"
+                },
+                {
+                    "id": "008",
+                    "value": "64545"
+                },
+                {
+                    "id": "006",
+                    "value": "52178"
+                },
+                {
+                    "id": "001",
+                    "value": "59377"
+                },
+                {
+                    "id": "015",
+                    "value": "73702"
+                },
+                {
+                    "id": "045",
+                    "value": "49800"
+                },
+                {
+                    "id": "007",
+                    "value": "44087"
+                },
+                {
+                    "id": "024",
+                    "value": "59639"
+                },
+                {
+                    "id": "033",
+                    "value": "45982"
+                },
+                {
+                    "id": "016",
+                    "value": "53892"
+                },
+                {
+                    "id": "036",
+                    "value": "42577"
+                },
+                {
+                    "id": "009",
+                    "value": "63091"
+                },
+                {
+                    "id": "014",
+                    "value": "33543"
+                },
+                {
+                    "id": "031",
+                    "value": "77518"
+                },
+                {
+                    "id": "041",
+                    "value": "76463"
+                },
+                {
+                    "id": "004",
+                    "value": "53868"
+                },
+                {
+                    "id": "022",
+                    "value": "61963"
+                },
+                {
+                    "id": "020",
+                    "value": "47546"
+                },
+                {
+                    "id": "011",
+                    "value": "83060"
+                },
+                {
+                    "id": "012",
+                    "value": "80766"
+                },
+                {
+                    "id": "046",
+                    "value": "95777"
+                },
+                {
+                    "id": "019",
+                    "value": "98755"
+                },
+                {
+                    "id": "035",
+                    "value": "84898"
+                },
+                {
+                    "id": "047",
+                    "value": "84898"
+                }
+            ]
+        }
+    ]
+}

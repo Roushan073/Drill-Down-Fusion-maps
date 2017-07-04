@@ -1,0 +1,56 @@
+{
+    "chart": {
+        "caption": "World Map",
+        "theme": "zune",
+        "formatNumberScale": "0",
+        "numberSuffix": "M",
+        "nullEntityColor": "#C2C2D6",
+        "nullEntityAlpha": "50",
+      "hoverOnNull": "0",
+      "bordercolor": "#41c1a3",
+      "showborder": "1",
+      "showLabels": "1",
+      "showlegend": "0",
+        "useSNameInLabels": "1"
+    },
+    "colorrange": {
+        "color": [
+            {
+                "minvalue": "0",
+                "maxvalue": "100",
+                "code": "#E0F0E0",
+                "displayValue": "Below 100M"
+            },
+            {
+                "minvalue": "100",
+                "maxvalue": "500",
+                "code": "#D0DFA3",
+                "displayValue": "100-500M"
+            },
+            {
+                "minvalue": "500",
+                "maxvalue": "1000",
+                "code": "#B0BF92",
+                "displayValue": "500-1000M"
+            },
+            {
+                "minvalue": "1000",
+                "maxvalue": "5000",
+                "code": "#91AF64",
+                "displayValue": "Above 1B"
+            }
+        ]
+    },
+  "data": [
+                {
+                  "id": "AS",
+                  "Font": "Helvetica",
+                  "FontSize": "30",
+                  "FontBold": 1,
+                  "FontColor": "#383838",
+                  "value": "",
+                  "color": "#33af5c",
+                  "link": "newchart-jsonurl-Data/Asia.json"
+                }
+  ]
+}

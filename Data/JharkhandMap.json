@@ -1,0 +1,73 @@
+{
+  "chart": {
+    "animation": "0",
+    "showbevel": "0",
+    "usehovercolor": "1",
+    "canvasbordercolor": "#41c1a3",
+    "bordercolor": "#41c1a3",
+    "showlegend": "0",
+    "theme": "zune",
+    "caption": "Tata Steel branches in Jharkhand",
+    "fillalpha": "80",
+    "markerBgColor": "#37474f",
+        "markerRadius": "9",
+    "nullEntityColor": "#C2C2D6",
+    "nullEntityAlpha": "50",
+    "hoverOnNull": "0",
+    "showborder": "1",
+    "showcanvasborder": "1"
+  },
+
+  "markers": {
+    "items": [
+      {
+        "id": "lon",
+        "shapeid": "circle",
+        "x": "245.23",
+        "y": "157.9",
+        "tooltext": "Tata Steel, Jharia"
+      },
+      {
+        "id": "lon2",
+        "shapeid": "circle",
+        "x": "215.23",
+        "y": "168.9",
+        "tooltext": "Tata Steel, West Bokaro"
+      },
+      {
+        "id": "lon3",
+        "shapeid": "circle",
+        "x": "290.23",
+        "y": "255.9",
+        "tooltext": "Tata Steel, Jamshedpur"
+      }
+    ]
+  },
+
+  "data": [
+    {
+      "id": "IN.JH.ES",
+      "value": "",
+      "color": "#e57322",
+      "FontBold": 1,
+      "FontColor": "#383838",
+      "link": "newchart-jsonurl-Data/JamshedpurChart.json"
+    },
+    {
+      "id": "IN.JH.BO",
+      "value": "",
+      "color": "#3f67cc",
+      "FontBold": 1,
+      "FontColor": "#383838",
+      "link": "newchart-jsonurl-Data/JhariaChart.json"
+    },
+    {
+      "id": "IN.JH.RH",
+      "value": "",
+      "color": "#c92265",
+      "FontBold": 1,
+      "FontColor": "#383838",
+      "link": "newchart-jsonurl-Data/WestBokaroChart.json"
+    }
+  ]
+}

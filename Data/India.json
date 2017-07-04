@@ -1,0 +1,32 @@
+{
+  "chart": {
+    "animation": "0",
+    "showbevel": "0",
+    "usehovercolor": "1",
+    "canvasbordercolor": "#000000",
+    "theme": "zune",
+    "bordercolor": "#41c1a3",
+    "showshadow": "0",
+    "caption": "Website Visits for the month of Jan 2014",
+    "fillalpha": "80",
+    "showborder": "1",
+    "showcanvasborder": "1",
+    "showLabels": 1,
+    "useSNameInLabels": "1",
+    "nullEntityColor": "#C2C2D6",
+    "nullEntityAlpha": "50",
+    "hoverOnNull": "0"
+  },
+  "data": [
+    {
+      "id": "016",
+      "value": "",
+      "Font": "Helvetica",
+      "FontSize": "16",
+      "FontBold": 1,
+      "color": "#33af5c",
+      "FontColor": "#383838",
+      "link": "newchart-jsonurl-Data/JharkhandMap.json"
+    }
+  ]
+}

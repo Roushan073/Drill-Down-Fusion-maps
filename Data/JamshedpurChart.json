@@ -1,0 +1,139 @@
+{
+    "chart": {
+        "caption": "Steel Production in Jamshedpur, East Bokaro",
+        "subCaption": "June 2016 - June 2017",
+        "yaxisname": "Units {br} (in Million Tonnes){br}{br}",
+      "xAxisName": "{br}{br}Month",
+      "yAxisMaxValue": "15000000",
+        "showvalues": "1",
+      "canvasbordercolor": "#41c1a3",
+        "bordercolor": "#41c1a3",
+      "showborder": "1",
+      "showcanvasborder": "1",
+      "placevaluesinside": "1",
+      "valuefontbold": "1",
+      "valuefontsize": "12",
+      "showXAxisLine": "1",
+      "paletteColors": "#ff0000",
+        "xAxisLineThickness": "1",
+        "formatNumberScale": "1",
+        "theme": "fint"
+    },
+    "categories": [
+        {
+            "category": [
+                {
+                    "label": "June 16"
+                },
+                {
+                    "label": "July 16"
+                },
+                {
+                    "label": "August 16"
+                },
+                {
+                    "label": "September 16"
+                },
+                {
+                    "label": "October 16"
+                },
+                {
+                    "label": "November 16"
+                },
+                {
+                    "label": "December 16"
+                },
+                {
+                    "label": "January 17"
+                },
+                {
+                    "label": "February 17"
+                },
+                {
+                    "label": "March 17"
+                },
+                {
+                    "label": "Apil 17"
+                },
+                {
+                    "label": "May 17"
+                },
+                {
+                    "label": "June 17"
+                }
+            ]
+        }
+    ],
+  "dataset": [
+    {
+      "seriesname": "Steel Production",
+      "data": [
+        {
+          "value": "9800000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9650000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9750000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9250000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9500000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9550000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9500000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9700000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9650000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9700000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9450000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9800000",
+          "color": "#28ed60"
+        },
+        {
+          "value": "9750000",
+          "color": "#28ed60"
+        }
+      ]
+    }
+  ],
+  "trendlines": [
+        {
+            "line": [
+                {
+                    "startvalue": "9000000",
+                    "color": "#1aaf5d",
+                    "displayvalue": "Target{br}Monthly{br}Production",
+                    "valueOnRight": "1",
+                    "thickness": "2"
+                }
+            ]
+        }
+    ]
+}

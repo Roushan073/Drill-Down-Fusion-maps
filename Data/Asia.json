@@ -1,0 +1,31 @@
+{
+    "chart": {
+        "animation": "1",
+        "showbevel": "0",
+        "theme": "zune",
+        "usehovercolor": "1",
+        "canvasbordercolor": "#000000",
+        "bordercolor": "#41c1a3",
+        "caption": "Website Visits for the month of Jan 2014",
+      "connectorcolor": "000000",
+      "showlegend": "0",
+        "fillalpha": "80",
+      "showborder": "1",
+      "showcanvasborder": "1",
+        "nullEntityColor": "#C2C2D6",
+        "nullEntityAlpha": "50",
+        "hoverOnNull": "0"
+    },
+    "data": [
+        {
+            "id": "014",
+            "value": "",
+            "Font": "Helvetica",
+            "FontSize": "30",
+            "FontBold": 1,
+          "FontColor": "#383838",
+          "color": "#33af5c",
+            "link": "newchart-jsonurl-Data/India.json"
+        }
+    ]
+}
